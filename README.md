@@ -1,18 +1,18 @@
 # Hi, I'm Suchitha U 👋
 
-Full Stack Developer | Backend Engineer | Web Development & Machine Learning Enthusiast | Java | Python | React.js | Vue.js | BE CSE '25
+Full Stack Developer | Backend Engineer | Web Development & Machine Learning Enthusiast | BE CSE '25
 
 ## 🛠 Tech Stack
 
-• **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro
+- **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro
 
-• **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
+- **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
 
-• **Web Development:** HTML, CSS, Tailwind CSS
+- **Web Development:** HTML, CSS, Tailwind CSS
 
-• **Tools and Platforms:** Git, Postman
+- **Tools and Platforms:** Git, Postman
 
-• **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL
+- **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL
 
 
 ## 🔬 Research & Publications
