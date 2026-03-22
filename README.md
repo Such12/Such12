@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Suchitha U 👋
 
-<!--
-**Such12/Such12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Backend Engineer | Web Development & Machine Learning Enthusiast | Java | Python | React.js | Vue.js | BE CSE '25
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+• **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro
+
+• **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
+
+• **Web Development:** HTML, CSS, Tailwind CSS
+
+• **Tools and Platforms:** Git, Postman
+
+• **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL
+
+---
+
+## 🔬 Research & Publications
+
+- 📄 **["Comprehensive Methodologies for Alzheimer's Disease Prediction: A Machine Learning Approach"](https://ieeexplore.ieee.org/document/10923447)**
+  *2nd IEEE International Conference on IoT, Communication and Automation Technology, November 2024*
+
+- 📄 **["Use of Graphical Data to Predict Earthquakes through Neural Network Approach"](https://ieeexplore.ieee.org/document/10498267)**
+  *18th INDIACom — 11th International Conference on Computing for Sustainable Global Development, BVICAM New Delhi, March 2024*
+
+---
+
+## 🌱 Currently
+
+- 📚 Deepening my React + Next.js skills and building full stack projects
+- 👀 Open to full-time **Full Stack Engineer** roles — feel free to reach out
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [linkedin.com/in/suchitha-u](https://www.linkedin.com/in/suchitha-u)
+- 📧 suchithau02@gmail.com
