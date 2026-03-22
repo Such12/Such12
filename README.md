@@ -2,8 +2,6 @@
 
 Full Stack Developer | Backend Engineer | Web Development & Machine Learning Enthusiast | Java | Python | React.js | Vue.js | BE CSE '25
 
----
-
 ## 🛠 Tech Stack
 
 • **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro
@@ -16,24 +14,21 @@ Full Stack Developer | Backend Engineer | Web Development & Machine Learning Ent
 
 • **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL
 
----
 
 ## 🔬 Research & Publications
 
-- 📄 **["Comprehensive Methodologies for Alzheimer's Disease Prediction: A Machine Learning Approach"](https://ieeexplore.ieee.org/document/10923447)**
+- **["Comprehensive Methodologies for Alzheimer's Disease Prediction: A Machine Learning Approach"](https://ieeexplore.ieee.org/document/10923447)**
   *2nd IEEE International Conference on IoT, Communication and Automation Technology, November 2024*
 
-- 📄 **["Use of Graphical Data to Predict Earthquakes through Neural Network Approach"](https://ieeexplore.ieee.org/document/10498267)**
+- **["Use of Graphical Data to Predict Earthquakes through Neural Network Approach"](https://ieeexplore.ieee.org/document/10498267)**
   *18th INDIACom — 11th International Conference on Computing for Sustainable Global Development, BVICAM New Delhi, March 2024*
 
----
 
 ## 🌱 Currently
 
-- 📚 Deepening my React + Next.js skills and building full stack projects
-- 👀 Open to full-time **Full Stack Engineer** roles — feel free to reach out
+- Deepening full stack expertise across React, Vue.js, Django, and PostgreSQL by building projects
+- Open to full-time **Full Stack Developer** roles — feel free to reach out
 
----
 
 ## 📬 Let's Connect
 
