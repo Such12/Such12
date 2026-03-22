@@ -4,15 +4,15 @@ Full Stack Developer | Backend Engineer | Web Development & Machine Learning Ent
 
 ## 🛠 Tech Stack
 
-- **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro
+- **Frameworks and Libraries:** React.js, Next.js, Django, Vue.js, Astro.
 
-- **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript
+- **Programming Languages:** C, C++, Java, Python, JavaScript, TypeScript.
 
-- **Web Development:** HTML, CSS, Tailwind CSS
+- **Web Development:** HTML, CSS, Tailwind CSS.
 
-- **Tools and Platforms:** Git, Postman
+- **Tools and Platforms:** Git, Postman.
 
-- **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL
+- **Database Management:** Firebase, NoSQL, MongoDB, PostgreSQL.
 
 
 ## 🔬 Research & Publications
@@ -26,8 +26,8 @@ Full Stack Developer | Backend Engineer | Web Development & Machine Learning Ent
 
 ## 🌱 Currently
 
-- Deepening full stack expertise across React, Vue.js, Django, and PostgreSQL by building projects
-- Open to full-time **Full Stack Developer** roles — feel free to reach out
+- Deepening full stack expertise across React, Vue.js, Django, and PostgreSQL by building projects.
+- Open to full-time **Full Stack Developer** roles — feel free to reach out.
 
 
 ## 📬 Let's Connect
